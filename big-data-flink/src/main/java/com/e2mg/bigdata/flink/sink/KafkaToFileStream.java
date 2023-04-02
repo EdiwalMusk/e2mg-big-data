@@ -16,7 +16,7 @@ import java.util.Properties;
  * @author EdiwalMusk
  * @date 2023/4/2 11:47
  */
-public class KafkaStream {
+public class KafkaToFileStream {
 
     public static void main(String[] args) throws Exception {
         // 1.创建执行环境
